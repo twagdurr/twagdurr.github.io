@@ -15,7 +15,7 @@ body {
 }
 
 #right {
-    background-image: url('../media/TannerWagner-Durr.JPG');
+    background-image: url('../images/TannerWagner-Durr.JPG');
 }
 
 .columns {
@@ -151,12 +151,4 @@ body {
 
 .buttons .button:nth-child(2) {
     animation-delay: 900ms;
-}
-
-.buttons .button:nth-child(3) {
-    animation-delay: 1s;
-}
-
-.buttons .button:nth-child(4) {
-    animation-delay: 1.1s;
 }
